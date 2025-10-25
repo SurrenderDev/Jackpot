@@ -4,6 +4,6 @@ main: dev.luna.jackpot.CosmicJackpot
 api-version: '1.21'
 commands:
   jackpot:
-    description: Manage and participate in the Cosmic Jackpot mini‑game
+    description: Manage and participate in the Jackpot mini‑game
     usage: "/<command> [buy|toggle|history|stats|help]"
     aliases: [jp]
